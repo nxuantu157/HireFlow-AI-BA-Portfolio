@@ -1,6 +1,6 @@
 # HireFlow AI
 
-> AI-powered Recruitment Operating System
+> AI-powered Recruitment Management Platform
 
 ## About Project
 
