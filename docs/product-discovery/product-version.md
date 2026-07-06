@@ -8,7 +8,7 @@ HireFlow AI
 
 ## Vision Statement
 
-HireFlow AI là nền tảng hỗ trợ tuyển dụng nhân sự tích hợp AI, giúp doanh nghiệp vừa và nhỏ tối ưu quá trình sàng lọc hồ sơ và quản lý ứng viên trên một hệ thống tập trung
+HireFlow AI là nền tảng hỗ trợ sàng lọc hồ sơ ứng viên bằng AI và quản lý quy trình đánh giá ứng viên, giúp doanh nghiệp vừa và nhỏ rút ngắn thời gian tuyển dụng và nâng cao hiệu quả ra quyết định của HR
 
 ---
 
@@ -17,7 +17,8 @@ HireFlow AI là nền tảng hỗ trợ tuyển dụng nhân sự tích hợp AI
 - HR phải sàng lọc CV thủ công
 - CV đến từ nhiều nguồn khác nhau
 - Quy trình tuyển dụng mất nhiều thời gian
-- Thiếu tính đánh giá thống nhất
+- Chưa có tiêu chí đánh giá ứng viên rõ ràng giữa các HR
+- Công ty công nghệ quy mô vừa và nhỏ
 
 ---
 
@@ -42,6 +43,7 @@ HireFlow AI là nền tảng hỗ trợ tuyển dụng nhân sự tích hợp AI
 ### For Business
 - Tiết kiệm chi phí tuyển dụng
 - Tăng hiệu suất tuyển dụng
+- Nâng cao chất lượng tuyển chọn ứng viên
 
 ### For HR
 - Giảm thời gian lọc CV
@@ -54,6 +56,6 @@ HireFlow AI là nền tảng hỗ trợ tuyển dụng nhân sự tích hợp AI
 ---
 
 ## My Notes
-- AI chỉ hỗ trợ đánh giá, sàng lọc CV theo tiêu chuẩn tổ chức
+- AI chỉ đưa ra gợi ý đánh giá dựa trên tiêu chí tuyển dụng; quyết định cuối cùng thuộc về HR
 - MVP chỉ tập trung vào CV Screening
 - Quyết định cuối cùng thuộc về HR
