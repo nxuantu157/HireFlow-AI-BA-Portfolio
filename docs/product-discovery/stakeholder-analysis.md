@@ -10,8 +10,8 @@
 
 | Stakeholder | Role | Responsibility |
 |-------------|------|----------------|
-| HR Recruiter| End User| Quản lý tuyển dụng <br> Đăng tin tuyển dụng <br> Sàng lọc <br> Đánh giá <br> Cập nhật trạng thái|
-| Candidate| End User |  Cập nhật hồ sơ <br> Theo dõi trạng thái <br>Cung cấp thông tin chính xác |
+| HR Recruiter| End User| .Quản lý tuyển dụng <br> .Đăng tin tuyển dụng <br> .Sàng lọc <br> .Đánh giá <br> .Cập nhật trạng thái|
+| Candidate| End User |  .Cập nhật hồ sơ <br> .Theo dõi trạng thái <br>.Cung cấp thông tin chính xác |
 | CEO| Sponsor | Phê duyệt ngân sách|
 | Product Owner| Product Owner| Xác định Product Vision|
 | Development Team| Technical Team | Phát triển hệ thống|
