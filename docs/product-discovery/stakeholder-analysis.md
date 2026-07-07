@@ -10,7 +10,8 @@
 
 | Stakeholder | Role | Responsibility |
 |-------------|------|----------------|
-| HR Recruiter| End User| - Quản lý tuyển dụng - Sàng lọc - Đánh giá - Cập nhật trạng thái|
+| HR Recruiter| End User| - Quản lý tuyển dụng - Sàng lọc - Đánh giá 
+- Cập nhật trạng thái|
 | Candidate| End User |  |
 | CEO| Sponsor | Phê duyệt ngân sách|
 | Product Owner| Product Owner| Xác định Product Vision|
