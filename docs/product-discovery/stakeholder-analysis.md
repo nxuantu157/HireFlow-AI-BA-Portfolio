@@ -9,7 +9,9 @@
 ## Stakeholder List
 
 | Stakeholder | Role | Responsibility |
-|HR Recruiter |End User|Quản lý quy trình tuyển dụng|
+|-------------|------|----------------|
+| HR Recruiter| End User| Quản lý quy trình tuyển dụng
+
 
 ---
 
