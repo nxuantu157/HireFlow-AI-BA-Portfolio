@@ -74,6 +74,7 @@
 | CEO | Project Report| Monthly| Báo cáo tiến độ|
 |Product Owner| Daily Standup| Daily| Thống nhất Backlog|
 |Development Team| Sprint Planning| Weekly| Làm rõ Requirement|
+| Candidate | Email Notification | Event-based | Cập nhật trạng thái ứng tuyển|
 
 ## My Analysis
 
