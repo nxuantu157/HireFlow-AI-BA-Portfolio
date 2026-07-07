@@ -10,9 +10,8 @@
 
 | Stakeholder | Role | Responsibility |
 |-------------|------|----------------|
-| HR Recruiter| End User| - Quản lý tuyển dụng - Sàng lọc - Đánh giá 
-- Cập nhật trạng thái|
-| Candidate| End User |  |
+| HR Recruiter| End User| . Quản lý tuyển dụng . Đăng tin tuyển dụng . Sàng lọc . Đánh giá - Cập nhật trạng thái|
+| Candidate| End User | . Cập nhật hồ sơ . Theo dõi trạng thái . Cung cấp thông tin chính xác |
 | CEO| Sponsor | Phê duyệt ngân sách|
 | Product Owner| Product Owner| Xác định Product Vision|
 | Development Team| Technical Team | Phát triển hệ thống|
@@ -24,9 +23,11 @@
 
 | Stakeholder | Power | Interest | Strategy |
 |-------------|-------|----------|----------|
-|HR| | | Manage Closely|
-|CEO| | | Keep Satisfied|
-|Candidate| | | Keep Informed|
+|HR| High| High | Manage Closely|
+|CEO| High|Medium | Keep Satisfied|
+|Candidate| Low|High | Keep Informed|
+|Product Owner| High|High | Manage Closely|
+|Development Team| Medium |High | Manage Closely|
 
 ---
 
@@ -35,7 +36,7 @@
 ### HR
 
 - Giảm thời gian xử lý CV
-- Tài liệu hồ sơ quản lý chung 1 nền tảng
+- Tài liệu hồ sơ quản lý chung một nền tảng
 - Tăng hiệu suất tìm kiếm ứng viên
 
 ### Candidate
@@ -51,22 +52,29 @@
 
 ### Product Owner
 
-...
+- Product đúng Product Vision
+- Requirement rõ ràng
+- MVP đúng Scope
+- Ưu tiên Feature hợp lý
 
 ### Development Team
 
-...
+- Requirement rõ ràng
+- Acceptance Criteria đầy đủ
+- Không thay đổi Scope liên tục
+- Có tài liệu thiết kế
 
 ---
 
 ## Communication Plan
 
-| Stakeholder | Communication | Frequency |
-|-------------|---------------|-----------|
-| HR | Meeting | Weekly|
-| CEO | Project Report| Monthly|
-|Product Owner| Daily Standup| Daily|
+| Stakeholder | Communication | Frequency | Purpose |
+|-------------|---------------|-----------|---------|
+| HR | Meeting | Weekly| Thu thập Requirement|
+| CEO | Project Report| Monthly| Báo cáo tiến độ|
+|Product Owner| Daily Standup| Daily| Thống nhất Backlog|
+|Development Team| Sprint Planning| Weekly| Làm rõ Requirement|
 
 ## My Analysis
 
-Mỗi Stakeholder như đã phân tích, đều đóng vai trò quan trọng đối với thành công của dự án. Đối với dự án này, HR và Candidate quan trọng nhất MVP vì họ lả người trải nghiệm thực tế và có góc nhìn chân thật nhất về dự án.
+Sau khi phân tích, Product Owner và HR là hai Stakeholder quan trọng nhất trong giai đoạn MVP. Product Owner chịu trách nhiệm định hướng sản phẩm và ưu tiên các yêu cầu, trong khi HR là người sử dụng hệ thống thường xuyên và phản hồi trực tiếp về tính hiệu quả của giải pháp. Các Stakeholder còn lại đóng vai trò hỗ trợ hoặc hưởng lợi từ sản phẩm theo những mức độ khác nhau.
