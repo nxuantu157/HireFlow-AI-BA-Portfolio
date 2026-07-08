@@ -2,13 +2,12 @@
 
 ## Objective
 
-This document maps the business problems identified during Product Discovery to potential product solutions. It serves as the foundation for feature prioritization and MVP scope definition.
+ài liệu này liên kết các Pain Point được xác định trong giai đoạn Product Discovery với các giải pháp đề xuất. Đây là cơ sở để xác định phạm vi MVP và ưu tiên phát triển các tính năng của sản phẩm.
 
 ---
 
 | ID | Persona | Journey Stage | Pain Point | Root Cause | Business Impact | Proposed Solution | Priority | MVP | Success Metric |
 |----|----------|---------------|------------|------------|-----------------|-------------------|----------|-----|----------------|
-
 | PP-01 | HR Recruiter | Screen CV | HR mất nhiều thời gian đọc CV thủ công | Chưa có công cụ hỗ trợ đánh giá CV | Time-to-Hire tăng | AI CV Screening | High | Yes | Giảm 70% thời gian sàng lọc |
 
 | PP-02 | HR Recruiter | Collect CV | CV đến từ nhiều nền tảng | Không có hệ thống quản lý tập trung | Dễ thất lạc hồ sơ | Unified Candidate Management | High | Yes | 100% CV lưu trên một hệ thống |
