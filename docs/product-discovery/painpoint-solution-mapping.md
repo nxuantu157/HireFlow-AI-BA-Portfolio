@@ -2,7 +2,7 @@
 
 ## Objective
 
-ài liệu này liên kết các Pain Point được xác định trong giai đoạn Product Discovery với các giải pháp đề xuất. Đây là cơ sở để xác định phạm vi MVP và ưu tiên phát triển các tính năng của sản phẩm.
+Tài liệu này liên kết các Pain Point được xác định trong giai đoạn Product Discovery với các giải pháp đề xuất. Đây là cơ sở để xác định phạm vi MVP và ưu tiên phát triển các tính năng của sản phẩm.
 
 ---
 
